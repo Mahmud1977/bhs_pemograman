@@ -1,6 +1,6 @@
 # type data python
 
-# type data integer ciracas
+# type data integer test
 a = 12
 print(a)
 print(type(a))
