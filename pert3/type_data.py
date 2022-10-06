@@ -1,6 +1,6 @@
 # type data python
 
-# type data integer number
+# type data integer TEST
 a = 12
 print(a)
 print(type(a))
